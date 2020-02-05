@@ -14,7 +14,7 @@ Log: URL Split: [
 "height=183"
 ]
 
-## Assignment NOde II.1
+## Assignment Node II.1
 
 Command: npm run test2
 Open file: indexPOST.html
@@ -23,7 +23,7 @@ I dette eksempel med POST får vi information der er submiitted via vores HTML f
 
 Resultatet kan ikke blive bogmærket af brugeren da der ikke sker nogen ændring i URL'en
 
-## Assignment NOde II.1a
+## Assignment Node II.1a
 
 Command: npm run test2
 Open file: indexGET.html
@@ -33,7 +33,7 @@ Dette er ikke er særlig smart såfremt det information brugeren har indtastet e
 
 GET er brugbart hvis brugeren gerne vil have mulighed for at bogmærket resultatet.
 
-## Assignment NOde II.3
+## Assignment Node II.3
 
 Command: npm run test3
 Paste in URL: http://localhost:3000/
@@ -46,7 +46,7 @@ http://localhost:3000/<eget valg>
 
 Tilføjet ekstra kode til II3.js så URL not found skriver This is my 404, requested url not found.
 
-## Lavet en løsning 2 til Assignment NOde II.3
+## Lavet en løsning 2 til Assignment Node II.3
 
 Command: npm run test3
 
